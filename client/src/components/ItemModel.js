@@ -7,7 +7,7 @@ import {
   FormGroup,
   Label,
   Input,
-  ModalFooter,
+  // ModalFooter,
   ModalHeader,
 } from "reactstrap";
 import { connect } from "react-redux";
